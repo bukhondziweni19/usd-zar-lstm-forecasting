@@ -45,4 +45,4 @@ pip install pmdarima matplotlib seaborn pandas-datareader
 ## Academic Context
 Master of Financial Engineering
 Applied Econometrics with Machine Learning
-University of Johannesburg — 2025
+University of Johannesburg — 2026
